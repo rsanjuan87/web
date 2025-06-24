@@ -1,8 +1,5 @@
 {
    "cad": true,
-   "eyenk": false,
-   "myartathome":false,
-   "mine":true,
-   "192.168.5.95":true,
-   "192.168.1.148":true
+   "eyenk": true,
+   "mine":true
 }
